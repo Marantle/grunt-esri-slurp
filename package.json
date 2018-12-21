@@ -33,7 +33,7 @@
     "load-grunt-tasks": "^3.x"
   },
   "dependencies": {
-    "esrislurp": "1.2.3",
+    "esrislurp": "https://github.com/Marantle/esrislurp.git#master",
     "progress": "^1.x"
   },
   "scripts": {
